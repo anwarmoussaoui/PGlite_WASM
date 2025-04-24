@@ -1,0 +1,10 @@
+{
+  "name": "pglite-app",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "@wasmer/wasi": "^1.2.2",
+    "wasi": "^0.0.5",
+    "whatwg-url": "^14.2.0"
+  }
+}
